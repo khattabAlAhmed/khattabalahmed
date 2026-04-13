@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=خطاب%20الزبيري&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20·%20Founder%20of%20Future%20Vision&descSize=18&descAlignY=55&descColor=94a3b8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Khattab%20Al-Zubairi&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20·%20Founder%20of%20Future%20Vision&descSize=18&descAlignY=55&descColor=94a3b8" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=false&width=550&lines=Building+from+Yemen+%F0%9F%87%BE%F0%9F%87%AA;Next.js+16+%7C+TypeScript+%7C+Flutter;Full-stack+web+%26+mobile+apps;Code+is+my+way+out.+%F0%9F%A7%AD)](https://git.io/typing-svg)
 
