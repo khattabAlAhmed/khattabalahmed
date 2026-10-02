@@ -16,7 +16,7 @@
 [![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/khattab_alahmed)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/khattab_alahmed)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/khattab.alahmed)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/967770000000)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/967771746200)
 [![Email - Personal](https://img.shields.io/badge/khattabz2050@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khattabz2050@gmail.com)
 [![Email - Work](https://img.shields.io/badge/khattab@futurevisionye.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khattab@futurevisionye.com)
 [![Website](https://img.shields.io/badge/futurevisionye.com-000?style=for-the-badge&logo=globe&logoColor=white)](https://futurevisionye.com/en)
@@ -127,7 +127,46 @@
 
 ---
 
-### 🚀 What I Build
+### 🌟 Featured Projects & Open Source
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 📖 [daily-dev-log](https://github.com/khattabAlAhmed/daily-dev-log)
+> *Daily software engineering journal, design patterns, resilient API architectures, and practical algorithms.*
+- 🛠️ **Tech:** Python, TypeScript, Systems Engineering
+- ⚡ **Highlights:** Exponential backoff algorithms, connection pooling, concurrency patterns.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎭 [MAFIA Party Game](https://github.com/khattabAlAhmed/MAFIA-Social-Deduction-Party-Game)
+> *Modern real-time social deduction party web game built for interactive group sessions.*
+- 🛠️ **Tech:** Next.js, WebSockets, Tailwind CSS
+- ⚡ **Highlights:** Dynamic lobbies, responsive UI, rich in-game role interactions.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🦖 [Chrome Dino Level Rush](https://github.com/khattabAlAhmed/Chrome-Dino-Level-Rush-game)
+> *Arcade web game reimagining the classic browser runner with progressive difficulty levels.*
+- 🛠️ **Tech:** JavaScript, HTML5 Canvas, Web Audio API
+- ⚡ **Highlights:** Custom physics engine, retro soundscapes, high score tracking.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎪 [Riyadh Event Planner](https://github.com/khattabAlAhmed/riyadh-event-planner)
+> *Digital event planning, logistics management, and tent leasing portal.*
+- 🛠️ **Tech:** Next.js, TypeScript, PostgreSQL
+- ⚡ **Highlights:** Dynamic booking engine, localized Arabic interface, catalog management.
+
+</td>
+</tr>
+</table>
 
 <table width="100%">
 <tr>
